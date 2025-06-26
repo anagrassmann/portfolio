@@ -1,12 +1,12 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Alejandro Múnez — Mobile & Web Developer",
-  author: "Alejandro Múnez Cuntez",
+  title: "Ana Grassmann — Web Designer",
+  author: "Ana Grassmann",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Web Designer based in Santa Catarina, Brazil. I specialize in UI design with a strong foundation in web and mobile application development and maintenance, built on years of experience in digital marketing and customer-centered solutions..",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
