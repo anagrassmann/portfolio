@@ -26,10 +26,10 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Ana Grassmann",
-    specialty: "Mobile & Web Developer",
+    specialty: "Web Developer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Web Designer based in Santa Catarina, Brazil. I specialize in UI design with a strong foundation in web and mobile application development and maintenance, built on years of experience in digital marketing and customer-centered solutions.",
+    email: "anagrassmann@gmail.com",
   },
   experience: [
     {
